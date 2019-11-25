@@ -1,5 +1,6 @@
 {
   "name": "simplefolio",
+  "homepage": "https://srikanthkkolli.github.io",
   "version": "1.0.0",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
@@ -9,15 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Srikanth Kolli",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
-  },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.2.0",
